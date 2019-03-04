@@ -1,0 +1,60 @@
+header{
+	background-color: #ff4d4d;
+	padding: 40px;
+	text-align: center;
+}
+
+html, body{
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+}
+
+header img{
+	height: 500px;
+	width: 500px;
+	border-radius: 30px;
+	border: 10px solid #000000;
+}
+
+body img{
+	height: 600px;
+	width: 1000px;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+}
+
+img.grande{
+	max-width: 100%;
+}
+
+footer{
+	padding: 40 px 20 px;
+	margin-top: 20px;
+	background-color: #ff4d4d;
+}
+
+	ul{ 
+	text-align: center;
+	 }
+
+	 footer ul li{
+	 	display: inline-block;
+	 	margin: 0 5px;
+	 }
+
+	 footer ul{
+	 	text-align: center;
+	 }
+/*<header>
+		<img src="https://www.21secolo.news/wp-content/uploads/2018/01/8c15860b6ccb84d166b223f673bad0ce.jpg">
+		<h1>Mickey Mouse</h1>
+	</header>*/
